@@ -1,0 +1,8 @@
+D:\Studying\istu\1 курс\ЯП ВУ\Лабораторные работы\Lab9. Работа с графикой\Lab9 Tasks\Lab9 Tasks\x64\Debug\Lab9 Tasks.vcxproj.AssemblyReference.cache
+D:\Studying\istu\1 курс\ЯП ВУ\Лабораторные работы\Lab9. Работа с графикой\Lab9 Tasks\Lab9 Tasks\x64\Debug\Lab9 Tasks.vcxproj.SuggestedBindingRedirects.cache
+D:\Studying\istu\1 курс\ЯП ВУ\Лабораторные работы\Lab9. Работа с графикой\Lab9 Tasks\Lab9 Tasks\x64\Debug\Lab9 Tasks.vcxproj.GenerateResource.cache
+D:\Studying\istu\1 курс\ЯП ВУ\Лабораторные работы\Lab9. Работа с графикой\Lab9 Tasks\Lab9 Tasks\x64\Debug\Lab9Tasks.StartForm.resources
+D:\Studying\istu\1 курс\ЯП ВУ\Лабораторные работы\Lab9. Работа с графикой\Lab9 Tasks\Lab9 Tasks\x64\Debug\Lab9Tasks.Task1Form.resources
+D:\Studying\istu\1 курс\ЯП ВУ\Лабораторные работы\Lab9. Работа с графикой\Lab9 Tasks\Lab9 Tasks\x64\Debug\Lab9Tasks.Task2Form.resources
+D:\Studying\istu\1 курс\ЯП ВУ\Лабораторные работы\Lab9. Работа с графикой\Lab9 Tasks\Lab9 Tasks\x64\Debug\Lab9Tasks.Task3Form.resources
+D:\Studying\istu\1 курс\ЯП ВУ\Лабораторные работы\Lab9. Работа с графикой\Lab9 Tasks\Lab9 Tasks\x64\Debug\Lab9Tasks.Task4Form.resources
